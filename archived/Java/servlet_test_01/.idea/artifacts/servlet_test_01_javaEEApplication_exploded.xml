@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="servlet_test_01:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/servlet_test_01_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="servlet_test_01/javaeeApplication/javaEEApplication" />
+      <element id="dir-copy" path="H:/glassfish5" />
+    </root>
+  </artifact>
+</component>
